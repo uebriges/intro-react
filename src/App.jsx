@@ -1,5 +1,4 @@
 import React from 'react';
-/*Add import statement here*/
 
 class App extends React.Component {
   constructor(props) {
