@@ -1,6 +1,6 @@
 import React from 'react';
-import List from './List';
 
+import List from './List';
 
 class App extends React.Component {
   constructor(props) {
